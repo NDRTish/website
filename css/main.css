@@ -1,5 +1,10 @@
-p {
-font-family: 'Raleway', sans-serif;
-color: white;
-font-size: 200%;
+#title {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+}
+#description: {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center
 }
