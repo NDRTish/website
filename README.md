@@ -1,2 +1,2 @@
 # website
-My own website, you can find out it [here](https://tish.gq)
+My own website, you can find it out here: [click](https://tish.gq).
